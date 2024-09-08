@@ -8,6 +8,8 @@ In today's competitive business environment, retaining top talent is critical to
 
 The primary objective of the HR Analytics Dashboard was to enable the HR department to monitor key workforce metrics, including employee count, attrition rate, and job satisfaction. The dashboard was designed to offer a comprehensive view of the workforce, allowing HR managers to make data-driven decisions to enhance employee engagement and reduce attrition.
 
+![Dashboard](/HR_Analytics.jpg)
+
 ### Key Features and Metrics
 
 1. Employee Count:
