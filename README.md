@@ -90,9 +90,8 @@ The project involved several phases, including data collection, dashboard design
   
 - User Training: Ensuring that HR staff could effectively use the dashboard required comprehensive training sessions, which were conducted after the dashboard was deployed.
 
-- Customization: Different departments had specific requirements, necessitating customization of the dashboard views. This was addressed by creating customizable filters and 
-  views tailored to the needs of each department.
-
+- Customization: Different departments had specific requirements, necessitating customization of the dashboard views. This was addressed by creating customizable filters and views tailored to the needs of each department.
+ 
   ### Results and Impact
 
   Post-implementation, the HR department at XYZ Corporation reported significant improvements in their ability to track and manage employee attrition. Key outcomes included:
@@ -108,8 +107,10 @@ The project involved several phases, including data collection, dashboard design
 
 - Implement Targeted Retention Programs:
 Focus on departments or demographic groups with high attrition rates by developing specific retention initiatives, such as career development opportunities and personalized engagement plans, to reduce turnover and increase employee loyalty.
+
 - Enhance Job Satisfaction Monitoring:
 Regularly track job satisfaction levels through surveys and feedback mechanisms. Address areas of concern promptly by making necessary adjustments in management practices, workload distribution, and employee support to boost morale and retention.
+
 - Leverage Predictive Analytics for Proactive Management:
 Utilize predictive analytics from the HR Analytics Dashboard to identify employees at risk of leaving. Implement early interventions, such as personalized career growth discussions or retention incentives, to proactively manage and reduce attrition.
 
